@@ -1,0 +1,18 @@
+{
+"companyName": "KasiaDomachowska",
+"productName": "Szpegawsk",
+"productVersion": "1.0",
+"dataUrl": "szpegawsk-build.data.unityweb",
+"asmCodeUrl": "szpegawsk-build.asm.code.unityweb",
+"asmMemoryUrl": "szpegawsk-build.asm.memory.unityweb",
+"asmFrameworkUrl": "szpegawsk-build.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0b1"
+}
